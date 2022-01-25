@@ -121,6 +121,25 @@ img
         font-family: Arial, Helvetica, sans-serif;
         cursor: pointer;
     }
+
+    .under_boton
+    {
+        border: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+        width: 50vw;
+        margin-left: 36.5rem;
+        height: 7vh;
+        font-size: 1.6rem;
+    }
+
+    .under_boton a 
+    {
+        padding: 3px;
+    }
     
 
     
