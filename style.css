@@ -58,7 +58,7 @@ img
     width: 50vw;
     height: 8vh;
     border: solid lightgray;
-    margin-left: 25rem;
+    margin-left: 35rem;
     margin-top: 2rem;
     border-radius: 5rem;
     border-width: 0.3rem;
@@ -84,7 +84,7 @@ img
       height: 5vh;
       margin-top: -4rem;
       order: 1;
-      margin-left: 26rem;
+      margin-left: 36rem;
       border: none;
            
     }
