@@ -38,3 +38,10 @@ input
     left: 1rem;
     margin-left: 0.5rem;
 }
+.logo
+{
+    border:none;
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
