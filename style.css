@@ -1,0 +1,40 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+
+html
+{
+    font-size: 62.5%;
+}
+
+.navegacion
+{
+    display: flex;
+    margin-left: 1rem;
+    font-size: 1.6rem;
+    align-items: center; 
+    justify-content: flex-end; 
+    margin-right: 1rem;
+}
+div
+{
+    margin-left: 2rem;
+        
+}
+img 
+{
+    display: flex;
+    justify-content: center;
+    margin-left: 0.5rem;
+}
+input 
+{
+    background-color: blue;
+    color: white;
+    border-radius: 0.5rem;
+    left: 1rem;
+    margin-left: 0.5rem;
+}
