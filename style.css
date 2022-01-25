@@ -30,7 +30,7 @@ img
     justify-content: center;
     margin-left: 0.5rem;
 }
-input 
+.inicio-header 
 {
     background-color: blue;
     color: white;
@@ -40,8 +40,52 @@ input
 }
 .logo
 {
-    border:none;
+    border:red solid;
     display: flex;
     justify-content: center;
     margin-top: 5rem;
 }
+
+.buscar
+{
+    justify-content: center;
+    border: solid black;
+    height: 15vh;
+    position: relative;
+    }
+.buscar input
+{
+    width: 50vw;
+    height: 8vh;
+    border: solid lightgray;
+    margin-left: 25rem;
+    margin-top: 2rem;
+    border-radius: 5rem;
+    border-width: 0.3rem;
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 5rem;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    position: relative;
+    order: 2;
+        }
+    
+    .buscar input:focus
+    {
+        outline: none;
+        
+    }
+
+    .lente
+    {
+      position: relative;
+      width: 5vw;
+      height: 5vh;
+      margin-top: -4rem;
+      order: 1;
+      margin-left: 26rem;
+      border: none;
+           
+    }
+    
