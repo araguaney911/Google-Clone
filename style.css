@@ -140,6 +140,44 @@ img
     {
         padding: 3px;
     }
+.container_cajitas 
+{
+    display: flex;
+    flex-direction: row;
+    border: none;
+    height: 7.5vh;
+    width: 100vw;
+    margin-top: 22.4rem;
+    align-items: center;
+    margin-left: -0.2rem;
+    font-size: 1.6rem;
+    background-color: rgb(221, 221, 221);
+    border-style: solid rgb(221, 221, 221);
     
+    
+}   
 
-    
+.c7
+{
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.c6
+{
+  margin-left: 57rem;
+  cursor: pointer;
+  
+}
+
+.c5
+{
+    position: relative;
+    left: 52rem;
+    cursor: pointer;
+}
+
+.c4,.c3,.c2,.c1 
+{
+    cursor: pointer;
+}
